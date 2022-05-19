@@ -1,0 +1,23 @@
+{
+  "name": "canvas-2d",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "./node_modules/.bin/http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alisonjonck/canvas-2d.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alisonjonck/canvas-2d/issues"
+  },
+  "homepage": "https://github.com/alisonjonck/canvas-2d#readme",
+  "dependencies": {
+    "http-server": "^14.1.0"
+  }
+}
